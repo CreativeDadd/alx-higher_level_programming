@@ -1,0 +1,1 @@
+The shell  SCript runs a python script
